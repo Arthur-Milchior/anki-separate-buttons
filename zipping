@@ -1,0 +1,2 @@
+rm separate.zip
+zip separate.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip ankiweb

@@ -1,0 +1,21 @@
+# Separate Learn and Relearn in the Answer Buttons graph
+
+This add-on shows more detailled infomation about which buttons you pressed. There are separate graphic for learning, youn, mature, and relearning cards.
+
+![example](ex.png)
+
+## Version 2.0
+https://ankiweb.net/shared/info/1999018922
+
+
+## Links, licence and credits
+
+Key         |Value
+------------|-------------------------------------------------------------------
+Maintener   | Arthur Milchior arthur@milchior.fr
+Copyright   | Unknown. The original author left no way to contact them
+Based on    | Anki code by Damien Elmes <anki@ichi2.net>
+License     | GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
+Source in   | https://github.com/Arthur-Milchior/anki-separate-buttons
+Addon number| [403491806](https://ankiweb.net/shared/info/403491806)
+Support me on| [![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](Ko-fi.com/arthurmilchior) or [![Patreon](http://www.milchior.fr/patreon.png)](https://www.patreon.com/bePatron?u=146206)
