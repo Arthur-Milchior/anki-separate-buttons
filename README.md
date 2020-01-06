@@ -4,6 +4,10 @@ This add-on shows more detailled infomation about which buttons you pressed. The
 
 ![example](ex.png)
 
+## Warning
+
+This is incompatible with [Progress Graphs and Stats for Learned and Matured Cards](https://ankiweb.net/shared/info/266436365)
+
 ## Version 2.0
 https://ankiweb.net/shared/info/1999018922
 
