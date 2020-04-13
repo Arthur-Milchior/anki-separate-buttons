@@ -1,6 +1,6 @@
 # Separate Learn and Relearn in the Answer Buttons graph
 
-This add-on shows more detailled infomation about which buttons you pressed. There are separate graphic for learning, youn, mature, and relearning cards.
+This add-on shows more detailled infomation about which buttons you pressed. There are separate graphics for learning, young, mature, and relearning cards.
 
 ![example](ex.png)
 
